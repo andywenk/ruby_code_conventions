@@ -3,6 +3,8 @@ My Ruby and RoR code conventions
 
 My Ruby and RoR code cenventions - nothing very new but handy to have them here.
 
+@@ WIP
+
 Basic principles
 ----------------
 
@@ -58,9 +60,9 @@ Ommit parentheses, if no parameters are expected
 Have to be written in camel case by Ruby requirement
 
     module PreFormatter
-        class ForJson
+      class ForJson
         
-        end
+      end
     end
     
 ###Constants
@@ -109,12 +111,12 @@ Use unless instead of if
     unless is_even
       # do something
     end
-    
 
 Various
 -------
 
 * use &&, || instead of and, or
+* don't use `for` ... `in`
 
 
 
