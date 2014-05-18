@@ -5,6 +5,14 @@ My Ruby and RoR code cenventions - nothing very new but handy to have them here.
 
 @@ WIP
 
+UPDATE
+------
+
+I wrote this basically for my fellow colleagues at sum.cumo AG because they are quite new to Ruby. I now found 
+a very good repository and I recommend to read it:
+
+[https://github.com/bbatsov/ruby-style-guide](https://github.com/bbatsov/ruby-style-guide)
+
 Basic principles
 ----------------
 
